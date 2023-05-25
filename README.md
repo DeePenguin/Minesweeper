@@ -1,1 +1,1 @@
-[link](deepenguin.github.io/Minesweeper/)
+[link](https://deepenguin.github.io/Minesweeper/)
